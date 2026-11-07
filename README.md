@@ -1,16 +1,21 @@
-Figma Design Preview
-This repository hosts the GitHub Pages deployment for viewing Figma design prototypes and design system assets.
+# GPTDummy Design Repository
 
-Overview
-Design previews embedded from Figma
-Documentation for stakeholders and developers
-Version-controlled design references
-Getting Started
-Open the GitHub Pages site to view the latest design updates.
+## Overview
 
-Tools Used
-Figma
-GitHub
-GitHub Pages
-Author
-Created and maintained for design collaboration and review.
+This repository contains design assets, documentation and design tokens.
+
+## Structure
+
+### Design
+Contains exported UI screens.
+
+### Documentation
+Contains user flows and design decisions.
+
+### Tokens
+Contains colors and typography values for developers.
+
+## Screens
+
+- ChatGPT Screen
+- Rome Tour Dashboard
