@@ -1,0 +1,12 @@
+{
+  "heading": {
+    "fontFamily": "Inter",
+    "fontWeight": 700,
+    "fontSize": "32px"
+  },
+  "body": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": "16px"
+  }
+}
